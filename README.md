@@ -56,6 +56,7 @@ Output Images
 - **Java Multi-Threading**
 - **ExecutorService (Thread Pool)**
 - Standard Java image libraries
+- **Python**
 
 ---
 
