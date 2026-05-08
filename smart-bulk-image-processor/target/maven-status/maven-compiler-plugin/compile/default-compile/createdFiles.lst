@@ -1,0 +1,10 @@
+com\team\imageprocessor\model\ImageJob$ImageJobBuilder.class
+com\team\imageprocessor\batch\writer\ImageJobWriter.class
+com\team\imageprocessor\batch\reader\ImageJobReader.class
+com\team\imageprocessor\config\BatchConfig.class
+com\team\imageprocessor\model\ImageJob.class
+com\team\imageprocessor\strategy\GrayscaleStrategy.class
+com\team\imageprocessor\processor\ImageJobProcessor.class
+com\team\imageprocessor\service\ImageProcessingService.class
+com\team\imageprocessor\strategy\ImageProcessingStrategy.class
+com\team\imageprocessor\Application.class

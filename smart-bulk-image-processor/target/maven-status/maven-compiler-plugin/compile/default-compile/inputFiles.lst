@@ -1,0 +1,9 @@
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\Application.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\batch\writer\ImageJobWriter.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\service\ImageProcessingService.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\batch\reader\ImageJobReader.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\model\ImageJob.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\config\BatchConfig.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\strategy\GrayscaleStrategy.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\strategy\ImageProcessingStrategy.java
+D:\java\smart-bulk-image-processor\smart-bulk-image-processor\src\main\java\com\team\imageprocessor\processor\ImageJobProcessor.java
